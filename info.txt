@@ -6,13 +6,12 @@ You can include a full url (https://www.example.com) or just the starting addres
 Arion is proud to be open source and kind of bad (code wise)
 I am trying not to be so *&^# at programming, so let me know if I am doing something redundant memory-wise, as I want to try and have enhanced preformance.
 
-2.0 Plans
+2.0 Coming Soon!
 
-Arion is supposed to be minimalistic, but I am eventually planning to have a search feature, that is able to detect if there is a .com or .net or whatever in
-the address bar, and if not, to use Google's API to get a list of results.
+Features coming:
+  - Bookmarking and loading of bookmarked pages
+  - Search being added! (Using Google's Python Module)
+  - Adding installer with GUI and more!
 
-Likewise, saving is something that may be useful to users, and I will try and create either a history.txt file that would update itself, or a bookmark button that
-saves bookmarked files to bookmarks.txt. Or both!
+I am taking a little break on this project for a week, so this update (which is just to update this home page, as all the codebase is stored somewhere else.) is released as 1.6.
 
-That's about it
-Thanks for your interest in this project.

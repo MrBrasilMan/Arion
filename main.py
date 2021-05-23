@@ -12,7 +12,7 @@ from tkinter import ttk
 
 #Warning, this is some pretty messy code right now
 #Preset webtext to the home page
-version = "1.5.0"
+version = "1.6.0"
 latest_info = requests.get("https://raw.github.com/MrBrasilMan/Arion/main/info.txt").text
 webtext = "Welcome to Arion Version " + version + "\nBy Lucas Frias\n___________________________________________________\n" + latest_info
 #This is the web library of 0.4.2, somewhat modified.
